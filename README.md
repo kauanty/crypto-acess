@@ -1,4 +1,4 @@
-## 🚀 **Crypto Access - Cryptocurrency Monitoring**
+## 🚀 **Crypto Access - Cryptocurrency Monitoring (IN PROGESS)**
 
 This is an interactive dashboard project that allows tracking prices, market volume, and variations of major cryptocurrencies in real time. The data is obtained from the CoinGecko API and presented in a visual and intuitive way.
 
@@ -53,4 +53,7 @@ streamlit run app.py
 | --- | --- |  
 | /coins/markets | List of cryptocurrencies sorted by market cap |  
 | /coins/{id}/market_chart | Price history of a cryptocurrency |  
-| /simple/price | Current price of a cryptocurrency in different currencies |  
+| /simple/price | Current price of a cryptocurrency in different currencies | 
+<br><br>
+
+![image-data](https://github.com/user-attachments/assets/06d2c4d8-64d8-4835-b168-7724b2a2175c)
